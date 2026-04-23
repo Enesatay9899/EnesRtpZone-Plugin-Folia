@@ -97,7 +97,7 @@ public class ZoneCommand implements CommandExecutor {
             return true;
         }
 
-        // Bilinmeyen komut - kullanimi goster
+        
         player.sendMessage(prefix + ColorUtils.format(plugin.getConfig().getString("messages.usage")));
         player.sendMessage(ColorUtils.format("&7- &b/ʀᴛᴘᴢᴏɴᴇ ᴡᴀɴᴅ &7- ꜱᴇᴄɪᴍ ᴡᴀɴᴅ'ɪ ᴀʟ"));
         player.sendMessage(ColorUtils.format("&7- &b/ʀᴛᴘᴢᴏɴᴇ ᴄʀᴇᴀᴛᴇ <ɪꜱɪᴍ> &7- ʙᴏʟɢᴇ ᴏʟᴜꜱᴛᴜʀ"));
