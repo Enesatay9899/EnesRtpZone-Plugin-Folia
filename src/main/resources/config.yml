@@ -1,0 +1,11 @@
+# ==========================================
+#         ENESRTPZONE CONFIGURATION
+# ==========================================
+
+rtp:
+  max-radius: 10000
+  min-radius: 1000
+  countdown: 30 #seconds
+  target-world: "world"
+
+zones: {}
